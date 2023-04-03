@@ -1,3 +1,8 @@
+# This program creates a pie graph based off user input.
+# It uses tkinter library to provide the user with a basic GUI.
+# The program is intended for financial use but could be used for any data.
+
+
 import tkinter as tk
 import matplotlib.pyplot as plt
 
