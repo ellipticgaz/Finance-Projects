@@ -1,5 +1,4 @@
-# This program gives stock assesment based off many of the
-# formulas used by the great Warren Buffet.
+# This program gives stock assessment based off many of the formulas used by Warren Buffet.
 
 # Welcome the user to the program.
 print()
