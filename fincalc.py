@@ -1,3 +1,7 @@
+# This program is a financial calculator.
+# It prompts the user to select what they would like to calculate.
+# It then prompts for more input from the user in order to perform the calculations
+
 # Main program
 print("Welcome to the Financial Calculator!")
 print("Please select an option:")
