@@ -1,3 +1,13 @@
+# This program is a technical analysis tool.
+# It gives a number of charts for the ticker symbol entered by the user.
+# Charts are:
+# Price with 20,50 & 200 daily moving averages.
+# MACD
+# RSI
+# Stochastic RSI
+# Volume
+
+
 import yfinance as yf
 import datetime as dt
 import matplotlib.pyplot as plt
