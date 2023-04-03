@@ -1,3 +1,12 @@
+# This program takes a ticker symbol as input and gives a number of probabilities for that asset:
+# Probability of a 5% drop in a day
+# Probability of a 10% drop in a day
+# Probability of a 40% drop in a year
+# Probability of a 20% drop in a year
+# Single day value at risk
+# It then prints out the quantiles of return
+
+
 import pandas as pd
 import numpy as np
 import yfinance as yf
