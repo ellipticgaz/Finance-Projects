@@ -1,3 +1,12 @@
+# This program is an example of a buy/sell indicator.
+# It can take up to 20 stock tickers as input.
+# It then checks to see if these stocks meet certain technical parameters.
+# It then gives a buy or sell output based on these indicators.
+# Indicators are:
+# Price above the 50 day moving average.
+# 50 day moving average above the 200 day moving average.
+# An increase in on-balance volume over the past 7 days.
+
 import yfinance as yf
 import pandas as pd
 
